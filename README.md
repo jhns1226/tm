@@ -2,7 +2,7 @@ Teachable Machine Image Project
 ===========================================
 주제 : 내 얼굴은 과연 무슨 동물상일까? :boy: vs :cat: / :dog: / :rabbit: / :deer:
 -------------------------------------
-링크 : <https://jhns1226.github.io/tm/>       
+링크 : <https://teachablemachine.withgoogle.com/models/H30CEnJU5/>       
 
 
 ### 동기
