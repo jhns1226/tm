@@ -11,7 +11,8 @@ Teachable Machine Image Project
 따라서 내가 직접 AI를 학습시켰을 때 그 앱과 얼마나 유사한지 비교해보고 싶어서 이와 같은 주제로 만들어보았다.    
 ```
 
-![다운로드](https://user-images.githubusercontent.com/84507452/120172824-67ca3c80-c23e-11eb-944e-8a74a9ac1dbf.jpg)
+![다운로드](https://user-images.githubusercontent.com/84507452/120172824-67ca3c80-c23e-11eb-944e-8a74a9ac1dbf.jpg)![다운로드 (2)](https://user-images.githubusercontent.com/84507452/120177635-9991d200-c243-11eb-856c-b2c88d8dfa28.jpg)![다운로드 (3)](https://user-images.githubusercontent.com/84507452/120177738-b29a8300-c243-11eb-899b-66a8bceaad45.jpg)![다운로드 (4)](https://user-images.githubusercontent.com/84507452/120177788-bfb77200-c243-11eb-84aa-a3c3b85672b3.jpg)
+
 
 실험       
 소녀시대 윤아의 얼굴을 강아지, 고양이, 토끼, 사슴에 비교하여 퍼센트로 나타내 봄
