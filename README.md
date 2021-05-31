@@ -1,6 +1,6 @@
 Teachable Machine Image Project
 ===========================================
-주제 : 내 얼굴은 과연 무슨 동물상일까? :boy: vs :cat: / :dog: / :rabbit: / :deer:
+주제 : 동물상 테스트기 성능 확인 :boy: vs :cat: / :dog: / :rabbit: / :deer:
 -------------------------------------
 링크 : <https://teachablemachine.withgoogle.com/models/H30CEnJU5/>       
 
